@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor front-end com experiência em React, Node.js e outras ferramentas do ecossistema JavaScript. Focado em criar interfaces intuitivas e responsivas, sempre buscando aprimorar <br>minhas habilidades e aprender novas tecnologias.
+Desenvolvedor  com experiência em React, Node.js e outras ferramentas do ecossistema JavaScript, além de experiências com Python e SQL. Focado em criar interfaces intuitivas e responsivas, sempre buscando aprimorar <br>minhas habilidades e aprender novas tecnologias.
 
 
 ## 🌐 Socials:
