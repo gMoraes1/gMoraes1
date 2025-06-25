@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor  com experiência em React, Node.js e outras ferramentas do ecossistema JavaScript, além de experiências com Python e SQL. Focado em criar interfaces intuitivas e responsivas, sempre buscando aprimorar <br>minhas habilidades e aprender novas tecnologias.
+Desenvolvedor focado no back-end, tenho conhecimentos consolidados de Python, banco de dados SQL, FastApi, docker, kubernetes e também habilidades e experiência prática com front-end
 
 
 ## 🌐 Socials:
